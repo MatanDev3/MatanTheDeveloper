@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MatanTheDeveloper
 - 👀 I’m interested in Developing Lua, JavaScript and python
 - 🌱 I’m currently learning Lua
-- 📫 Working on [Aelby](https://github.com/aelby)
 
 <!---
 MatanTheDeveloper/MatanTheDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
